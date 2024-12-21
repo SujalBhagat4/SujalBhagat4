@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning DATA STRUCTURE AND ALGORITHMS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:linkedin.com/in/sujal-bhagat-702187284
-- 😄 Pronouns: ...
 - ⚡ Fun fact: quality > quantity
 
 <!---
