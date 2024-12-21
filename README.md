@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SujalBhagat4
 - 👀 I’m interested in solving real-life problems.
 - 🌱 I’m currently learning DATA STRUCTURE AND ALGORITHMS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any open source projects.
 - 📫 How to reach me:linkedin.com/in/sujal-bhagat-702187284
 - ⚡ Fun fact: quality > quantity
 
